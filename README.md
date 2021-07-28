@@ -1,5 +1,1 @@
-<div align="center">
-<img src="https://rishavanand.github.io/static/images/greetings.gif" align="center" style="width: 100%" />
-</div>  
-
-
+[![Discord Bots](https://top.gg/api/widget/807585170890555413.svg)](https://top.gg/bot/807585170890555413)

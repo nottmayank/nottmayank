@@ -4,7 +4,7 @@ Hi 👋 My name is Mayank Soni
 Discord bot developer and Graphics Designer
 -------------------------------------------
 
-Owner/Developer of \[Wave bot\](https://wave.net.in/), 10 million users and 45k servers
+Owner/Developer of [Wave bot](https://wave.net.in/), 10 million users and 45k servers
 
 * 🌍  I'm based in India
 * ✉️  You can contact me at [itsmemayanksoni@gmail.com](mailto:itsmemayanksoni@gmail.com)

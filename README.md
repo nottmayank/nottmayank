@@ -9,8 +9,8 @@ Owner/Developer of [Wave bot](https://wave.net.in/), 10 million users and 45k se
 * 🌍  I'm based in India
 * ✉️  You can contact me at [itsmemayanksoni@gmail.com](mailto:itsmemayanksoni@gmail.com)
 * 🚀  I'm currently working on [Wave](http://wave.net.in/)
-* 🧠  I'm learning Javascript, Typescript
-* 🤝  I'm open to collaborating on Discord bots
+* 🧠  I'm learning Javascript, Typescript, C#, Html, Css
+* 🤝  I'm open to collaborate
 
 <a href="https://www.github.com/nottmayank" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/github/followers/nottmayank?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>

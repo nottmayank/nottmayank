@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on [Wave](wavemelo.xyz)
 
-- 📫 How to reach me **mayanksoniasus@outlook.com**
+- 📫 How to reach me **mayanksoni1701@gmail.com**
 
 - ⚡ Fun fact **I think I am Batman**
 

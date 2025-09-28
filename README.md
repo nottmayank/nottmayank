@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Mayank Soni</h1>
-<h3 align="center">Learning JavaScript, HTML, CSS, and MongoDB for a Bright Future</h3>
+<h3 align="center">💻 Full-Stack Web Developer | 🎨 Designer | ⚡ Tech Enthusiast</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nottmayank&label=Profile%20views&color=0e75b6&style=flat" alt="nottmayank" /> </p>
 

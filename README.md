@@ -1,5 +1,13 @@
-<h1 align="center">Hey 👋What's Up?</h1>
+<h1 align="center">👋 Hi, I’m Mayank Soni</h1>
+<h3 align="center">💻 Full-Stack Web Developer | 🎨 Designer | ⚡ Tech Enthusiast</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nottmayank&label=Profile%20views&color=0e75b6&style=flat" alt="nottmayank" /> </p>
+
+- 🎓 Pursuing BCA (Graduating in July 2027)
+- 🌐 Skilled in Front-End Development (HTML, CSS, JavaScript, React, Next.js)
+- ⚡ Building Full-Stack Apps with Express & MongoDB
+- 🎨 Experienced in Photoshop for creative design and UI/UX
+- 🔧 Work on electronics + Arduino projects (Weather Station, Transistor Sims, etc.)
+- 🌍 Passionate about building useful, creative, and scalable solutions
 
 ###
 

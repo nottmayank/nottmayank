@@ -2,7 +2,7 @@
 <h3 align="center">💻 Full-Stack Web Developer | 🎨 Designer | ⚡ Tech Enthusiast</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nottmayank&label=Profile%20views&color=0e75b6&style=flat" alt="nottmayank" /> </p>
 
-<hr></hr>
+###
 
 - 🎓 Pursuing BCA (Graduating in July 2027)
 - 🌐 Skilled in Front-End Development (HTML, CSS, JavaScript, React, Next.js)
@@ -12,6 +12,8 @@
 - 🌍 Passionate about building useful, creative, and scalable solutions
 
 ###
+
+# ⚒️ Tech I Work With
 
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="60" alt="typescript logo"  />
